@@ -558,6 +558,10 @@ footer .copyright p{
     font-size: 55%;
   }
 
+  .about .row {
+    flex-wrap: wrap;
+  }
+
   .event .row {
     flex-direction: column;
   }
@@ -565,6 +569,11 @@ footer .copyright p{
   .event .row .card {
     max-width: 70%;
   }
+
+  .contact .row {
+    flex-wrap: wrap;
+  }
+
   footer {
    flex-direction: column;
   }
