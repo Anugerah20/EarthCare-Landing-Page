@@ -564,4 +564,7 @@ footer .copyright p{
   .event .row .card {
     max-width: 70%;
   }
+  footer {
+   flex-direction: column;
+  }
 }
